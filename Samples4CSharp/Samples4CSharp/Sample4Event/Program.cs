@@ -46,13 +46,8 @@ namespace Sample4Event
 
         private void Kettle_TemperatureChanged(object sender, TemperatureChangedEventArgs args)
         {
-            a = Kettle_TemperatureChanged;
-            a += Kettle_TemperatureChanged;
-
             throw new NotImplementedException();
         }
-
-        TemperatureChanged a;
     }
 
 

@@ -1,0 +1,7 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/Samples4CSharp/Samples4CSharp/Sample4Event/obj
+/Samples4CSharp/Samples4CSharp/Sample4Event/bin/Debug/netcoreapp2.2
+/Samples4CSharp/Samples4CSharp/.vs/Samples4CSharp/v16
